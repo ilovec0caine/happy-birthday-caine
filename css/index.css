@@ -8,19 +8,19 @@
 
 
 
-/* Flexbox container to center the image */
+
 .image-container {
-    display: flex; /* Use Flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 60vh; /* Full viewport height */
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    height: 60vh; 
 }
 
-/* Ensure the image is responsive */
+
 .front-image {
-    max-width: 200%; /* Limit the image width to 90% of its container */
-    height: 48vh; /* Keep the aspect ratio of the image */
-    z-index: 10; /* Ensure it appears on top if necessary */
+    max-width: 200%; 
+    height: 48vh; 
+    z-index: 10; 
 }
 
 
