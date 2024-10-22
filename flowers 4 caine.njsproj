@@ -29,6 +29,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include=".github\workflows\static.yml" />
+    <Content Include="images\ilocvecocainee.jpg" />
     <Content Include="index.html" />
     <Content Include="main-candle.js" />
     <Content Include="style-candle.css" />
