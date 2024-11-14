@@ -2,7 +2,7 @@
 
 # Flowers For Caine 🌸
 
-Hello! this is for my baby 🌼 This repository hosts the codebase for a charming website dedicated to the art of gifting flowers to your loved ones.
+Hello! this is for caine🌼 This repository hosts the codebase for a charming website dedicated to the art of gifting flowers to your loved ones.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
